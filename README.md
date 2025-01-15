@@ -42,11 +42,61 @@ else:
 ## Languages
 
 <details><summary>Dropdown list of languages I use: </summary>
-    
-    - Python
-    - SQL
-    - PySpark
-    - R (learning in progress)
+
+- **Programming Languages**
+  - Python
+  - SQL
+  - R
+  - Scala
+  - Julia
+  - Java
+
+- **Big Data and Distributed Computing**
+  - PySpark
+  - Hadoop
+  - Apache Kafka
+  - Flink
+
+- **Data Visualization Tools**
+  - Tableau
+  - Power BI
+  - Matplotlib
+  - Seaborn
+  - Plotly
+
+- **Machine Learning and AI**
+  - TensorFlow
+  - PyTorch
+  - Scikit-learn
+  - Keras
+  - H2O.ai
+
+- **Data Management and Storage**
+  - PostgreSQL
+  - MongoDB
+  - AWS (S3, Redshift)
+  - Google BigQuery
+  - Snowflake
+
+- **Data Engineering Tools**
+  - Airflow
+  - Docker
+  - Kubernetes
+  - Apache Beam
+
+- **Statistical Tools**
+  - SPSS
+  - SAS
+
+- **Collaboration and Version Control**
+  - Git
+  - Jupyter Notebooks
+  - Google Colab
+
+- **Business Intelligence**
+  - Looker
+  - Qlik Sense
+
 </details>
 
 ## Looking for
